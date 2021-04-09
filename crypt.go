@@ -1,4 +1,4 @@
-package main
+package co2mini
 
 func decrypt(b, key []byte) []byte {
 	if len(b) != 8 {
